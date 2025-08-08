@@ -1,2 +1,1 @@
-# keggle_competation
-just for fun
+# Stock-MArket-Forecasting
